@@ -1,0 +1,90 @@
+Sport,Venue,Team(s),Abbreviation,Latitude,Longitude
+MLB,Chase Field,Arizona Diamondbacks,ARI,33.44527778,-112.0669444
+MLB,Turner Field,Atlanta Braves,ATL,33.73527778,-84.38944444
+MLB,Oriole Park at Camden Yards,Baltimore Orioles,BAL,39.28388889,-76.62166667
+MLB,Fenway Park,Boston Red Sox,BOS,42.34638889,-71.0975
+MLB,Wrigley Field,Chicago Cubs,CHC,41.94833333,-87.65555556
+MLB,U.S. Cellular Field,Chicago White Sox,CHW,41.83,-87.63388889
+MLB,Great American Ball Park,Cincinnati Reds,CIN,39.0975,-84.50666667
+MLB,Progressive Field,Cleveland Indians,CLE,41.49583333,-81.68527778
+MLB,Coors Field,Colorado Rockies,COL,39.75611111,-104.9941667
+MLB,Comerica Park,Detroit Tigers,DET,42.33916667,-83.04861111
+MLB,Minute Maid Park,Houston Astros,HOU,29.75694444,-95.35555556
+MLB,Kauffman Stadium,Kansas City Royals,KCR,39.05138889,-94.48055556
+MLB,Angel Stadium of Anaheim,Los Angeles Angels of Anaheim,LAA,33.80027778,-117.8827778
+MLB,Dodger Stadium,Los Angeles Dodgers,LAD,34.07361111,-118.24
+MLB,Marlins Park,Miami Marlins,MIA,25.77805556,-80.21972222
+MLB,Miller Park,Milwaukee Brewers,MIL,43.02833333,-87.97111111
+MLB,Target Field,Minnesota Twins,MIN,44.98166667,-93.27833333
+MLB,Citi Field,New York Mets,NYM,40.75694444,-73.84583333
+MLB,Yankee Stadium,New York Yankees,NYY,40.82916667,-73.92638889
+MLB,O.co Coliseum,Oakland Athletics,OAK,37.75166667,-122.2005556
+MLB,Citizens Bank Park,Philadelphia Phillies,PHI,39.90583333,-75.16638889
+MLB,PNC Park,Pittsburgh Pirates,PIT,40.44694444,-80.00583333
+MLB,Petco Park,San Diego Padres,SDP,32.70729983,-117.1565998
+MLB,Safeco Field,Seattle Mariners,SEA,47.59138889,-122.3325
+MLB,AT&T Park,San Francisco Giants,SFG,37.77833333,-122.3894444
+MLB,Busch Stadium,St. Louis Cardinals,STL,38.6225,-90.19305556
+MLB,Tropicana Field,Tampa Bay Rays,TBR,27.76833333,-82.65333333
+MLB,Rangers Ballpark in Arlington,Texas Rangers,TEX,32.75138889,-97.08277778
+MLB,Rogers Centre,Toronto Blue Jays,TOR,43.64138889,-79.38916667
+MLB,Nationals Park,Washington Nationals,WAS,38.87277778,-77.0075
+NFL,Arrowhead Stadium,Kansas City Chiefs,KC,39.04888889,-94.48388889
+NFL,Bank of America Stadium,Carolina Panthers,CAR,35.22583333,-80.85277778
+NFL,Candlestick Park,San Francisco 49ers,SF,37.71361111,-122.3861111
+NFL,CenturyLink Field,Seattle Seahawks,SEA,47.59527778,-122.3316667
+NFL,Cowboys Stadium,Dallas Cowboys,DAL,32.74777778,-97.09277778
+NFL,Edward Jones Dome,St. Louis Rams,STL,38.63277778,-90.18861111
+NFL,EverBank Field,Jacksonville Jaguars,JAC,30.32388889,-81.6375
+NFL,FedEx Field,Washington Redskins,WAS,38.90777778,-76.86444444
+NFL,FirstEnergy Stadium,Cleveland Browns,CLE,41.50611111,-81.69944444
+NFL,Ford Field,Detroit Lions,DET,42.34,-83.04555556
+NFL,Georgia Dome,Atlanta Falcons,ATL,33.7575,-84.40083333
+NFL,Gillette Stadium,New England Patriots,NE,42.09094444,-71.26434444
+NFL,Heinz Field,Pittsburgh Steelers,PIT,40.44666667,-80.01583333
+NFL,Hubert H. Humphrey Metrodome,Minnesota Vikings,MIN,44.97388889,-93.25805556
+NFL,Lambeau Field,Green Bay Packers,GB,44.50138889,-88.06222222
+NFL,Lincoln Financial Field,Philadelphia Eagles,PHI,39.90083333,-75.1675
+NFL,LP Field,Tennessee Titans,TEN,36.16638889,-86.77138889
+NFL,Lucas Oil Stadium,Indianapolis Colts,IND,39.76005556,-86.16380556
+NFL,M&T Bank Stadium,Baltimore Ravens,BAL,39.27805556,-76.62277778
+NFL,Mercedes-Benz Superdome,New Orleans Saints,NO,29.95083333,-90.08111111
+NFL,MetLife Stadium,New York Giants/New York Jets,NYG/NYJ,40.81361111,-74.07444444
+NFL,O.co Coliseum,Oakland Raiders,OAK,37.75166667,-122.2005556
+NFL,Paul Brown Stadium,Cincinnati Bengals,CIN,39.09544444,-84.51603889
+NFL,Qualcomm Stadium,San Diego Chargers,SD,32.78305556,-117.1194444
+NFL,Ralph Wilson Stadium,Buffalo Bills,BUF,42.77361111,-78.78694444
+NFL,Raymond James Stadium,Tampa Bay Buccaneers,TB,27.97583333,-82.50333333
+NFL,Reliant Stadium,Houston Texans,HOU,29.68472222,-95.41083333
+NFL,Soldier Field,Chicago Bears,CHI,41.8625,-87.61666667
+NFL,Sports Authority Field at Mile High,Denver Broncos,DEN,39.74388889,-105.02
+NFL,Sun Life Stadium,Miami Dolphins,MIA,25.95805556,-80.23888889
+NFL,University of Phoenix Stadium,Arizona Cardinals,ARI,33.5275,-112.2625
+NBA,American Airlines Arena,Miami Heat,MIA,25.78138889,-80.18805556
+NBA,American Airlines Center,Dallas Mavericks,DAL,32.79055556,-96.81027778
+NBA,Amway Center,Orlando Magic,ORL,28.53916667,-81.38361111
+NBA,AT&T Center,San Antonio Spurs,SAN,29.42694444,-98.4375
+NBA,Bankers Life Fieldhouse,Indiana Pacers,IND,39.76388889,-86.15555556
+NBA,Barclays Center,Brooklyn Nets,BKL,40.68265,-73.97468889
+NBA,BMO Harris Bradley Center,Milwaukee Bucks,MIL,43.04361111,-87.91694444
+NBA,Chesapeake Energy Arena,Oklahoma City Thunder,OKC,35.46333333,-97.515
+NBA,EnergySolutions Arena,Utah Jazz,UTA,40.76833333,-111.9011111
+NBA,FedExForum,Memphis Grizzlies,MEM,35.13833333,-90.05055556
+NBA,Madison Square Garden,New York Knicks,NYK,40.75055556,-73.99361111
+NBA,New Orleans Arena,New Orleans Hornets,NO,29.94888889,-90.08194444
+NBA,Oracle Arena,Golden State Warriors,GSW,37.75027778,-122.2030556
+NBA,Pepsi Center,Denver Nuggets,DEN,39.74861111,-105.0075
+NBA,Philips Arena,Atlanta Hawks,ATL,33.75722222,-84.39638889
+NBA,Quicken Loans Arena,Cleveland Cavaliers,CLE,41.49638889,-81.68805556
+NBA,Rose Garden,Portland Trail Blazers,POR,45.53166667,-122.6666667
+NBA,Sleep Train Arena,Sacramento Kings,SAC,38.64916667,-121.5180556
+NBA,Staples Center,Los Angeles Lakers/Los Angeles Clippers,LAL/LAC,34.04305556,-118.2672222
+NBA,Target Center,Minnesota Timberwolves,MIN,44.97944444,-93.27611111
+NBA,TD Garden,Boston Celtics,BOS,42.36630278,-71.06222778
+NBA,The Palace of Auburn Hills,Detroit Pistons,DET,42.69694444,-83.24555556
+NBA,Time Warner Cable Arena,Charlotte Bobcats,CHA,35.225,-80.83916667
+NBA,Toyota Center,Houston Rockets,HOU,29.75083333,-95.36222222
+NBA,United Center,Chicago Bulls,CHI,41.88055556,-87.67416667
+NBA,US Airways Center,Phoenix Suns,PHX,33.44583333,-112.0713889
+NBA,Verizon Center,Washington Wizards,WAS,38.89805556,-77.02083333
+NBA,Wells Fargo Center,Philadelphia 76ers,PHI,39.90111111,-75.17194444
